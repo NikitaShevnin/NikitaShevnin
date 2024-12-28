@@ -28,8 +28,7 @@
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
-
+- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin)
 ---
 
 ### :hammer_and_wrench: мой стек:
