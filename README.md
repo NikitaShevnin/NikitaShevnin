@@ -28,7 +28,7 @@
 
 - :zap: В свободное время стараюсь учиться на курсах платформы Stepik и читать статьи на Хабре. Это помогает мне быть в курсе последних тенденций в индустрии и улучшать свои навыки.
 
-- :mailbox: Всегда открыт для предложений о сотрудничестве и обмена знаниями. Вы можете связаться со мной через telegram [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin) а так же по электронной почте nikita.shevnin2016@yandex.ru
+- :mailbox: Всегда открыт для предложений о сотрудничестве и обмена знаниями. Вы можете связаться со мной через Telegram [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin), WhatsApp [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+79917461610), а также по электронной почте nikita.shevnin2016@yandex.ru.
 
 ---
 
