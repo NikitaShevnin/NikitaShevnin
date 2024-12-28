@@ -35,8 +35,8 @@
 ---
 
 ### :hammer_and_wrench: Cтек с которым я работаю:
-<img src="https://imgur.com/yEij6yC.png" width="20" height="20" alt="Java Icon"/>
-<img src="https://imgur.com/ZHv563I.png" width="20" height="20" alt="Java Icon"/>
+<img src="https://imgur.com/yEij6yC.png" width="40" height="40" alt="Java Icon"/>
+<img src="https://imgur.com/ZHv563I.png" width="40" height="40" alt="Java Icon"/>
 
 ---
 
