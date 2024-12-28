@@ -24,13 +24,13 @@
 
 ### :man_technologist: Не много о себе: Я Java Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: В настоящее время моя цель — начать свою карьеру в сфере разработки программного обеспечения и активно участвовать в создании высококачественных IT-продуктов.
 
-- :books: Люблю изучать новые технологии и языки программирования, такие как Kotlin и Python, и стремлюсь в будущем внедрять их в свои проекты.
+- :books: Люблю изучать новые технологии и языки программирования, такие как C++ и Python, и стремлюсь в будущем внедрять их в свои проекты.
 
 - :zap: В свободное время стараюсь учиться на курсах платформы Stepik и читать статьи на Хабре. Это помогает мне быть в курсе последних тенденций в индустрии и улучшать свои навыки.
 
-- :mailbox: Всегда открыт для предложений о сотрудничестве и обмена знаниями. Вы можете связаться со мной через [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin) а так же по электронной посте nikita.shevnin2016@yandex.ru
+- :mailbox: Всегда открыт для предложений о сотрудничестве и обмена знаниями. Вы можете связаться со мной через telegram [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin) а так же по электронной почте nikita.shevnin2016@yandex.ru
 
 ---
 
