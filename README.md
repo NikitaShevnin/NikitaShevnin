@@ -34,8 +34,22 @@
 
 ---
 
-### :hammer_and_wrench: Cтек с которым я работаю:
-<img src="https://imgur.com/yEij6yC.png" width="60" height="60" alt="Java Icon"/> <img src="https://imgur.com/ZHv563I.png" width="60" height="60" alt="Docker Icon"/> <img src="https://imgur.com/riZ5jhX.png" width="60" height="60" alt="Spring Icon"/> 
+### :hammer_and_wrench: Стек с которым я работаю:
+
+<div style="text-align: center;">
+  <div>
+    <img src="https://imgur.com/yEij6yC.png" width="60" height="60" alt="Java Icon"/>
+    <p>Java</p>
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white" width="60" height="60" alt="Docker"/>
+    <p>Docker</p>
+  </div>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Spring_Framework_Logo.svg" width="60" height="60" alt="Spring"/>
+    <p>Spring</p>
+  </div>
+</div>
 
 ---
 
