@@ -36,8 +36,7 @@
 
 ### :hammer_and_wrench: Cтек с которым я работаю:
 <img src="https://imgur.com/yEij6yC.png" width="20" height="20" alt="Java Icon"/>
-![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://imgur.com/ZHv563I.png" width="20" height="20" alt="Java Icon"/>
 
 ---
 
