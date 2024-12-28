@@ -15,11 +15,11 @@
   <img src="https://komarev.com/ghpvc/?username=NikitaShevnin&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  Hello I'm nick
+  Привет меня зовут Никита
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me : I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: About Me : Я Java Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
