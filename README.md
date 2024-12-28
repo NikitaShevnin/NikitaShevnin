@@ -26,11 +26,11 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :books: Люблю изучать новые технологии и языки программирования, такие как Kotlin и Python, и стремлюсь в будущем внедрять их в свои проекты.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: В свободное время стараюсь учиться на курсах на Stepik и читать статьи на Хабре. Это помогает мне быть в курсе последних тенденций в индустрии и улучшать свои навыки.
 
-- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin)
+- :mailbox: Всегда открыт для предложений о сотрудничестве и обмена знаниями. Вы можете связаться со мной через [![Telegram Badge](https://img.shields.io/badge/-nikita_shevnin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikita_shevnin) а так же по электронной посте nikita.shevnin2016@yandex.ru
 
 ---
 
