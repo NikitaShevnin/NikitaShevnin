@@ -36,18 +36,18 @@
 
 ### :hammer_and_wrench: Стек с которым я работаю:
 
-<div style="text-align: center;">
-  <div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; align-items: center; margin: 10px;">
     <img src="https://imgur.com/yEij6yC.png" width="60" height="60" alt="Java Icon"/>
-    <p>Java</p>
+    <p style="margin-left: 10px;">Java</p>
   </div>
-  <div>
+  <div style="display: flex; align-items: center; margin: 10px;">
     <img src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white" width="60" height="60" alt="Docker"/>
-    <p>Docker</p>
+    <p style="margin-left: 10px;">Docker</p>
   </div>
-  <div>
+  <div style="display: flex; align-items: center; margin: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Spring_Framework_Logo.svg" width="60" height="60" alt="Spring"/>
-    <p>Spring</p>
+    <p style="margin-left: 10px;">Spring</p>
   </div>
 </div>
 
