@@ -20,8 +20,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### :man_technologist: Не много о себе: Я Java Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: В настоящее время моя цель — начать свою карьеру в сфере разработки программного обеспечения и активно участвовать в создании высококачественных IT-продуктов.
