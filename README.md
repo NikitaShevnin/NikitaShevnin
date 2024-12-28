@@ -35,7 +35,7 @@
 ---
 
 ### :hammer_and_wrench: Cтек с которым я работаю:
-<img src="https://imgur.com/yEij6yC.png" width="60" height="60" alt="Java Icon"/> <img src="https://imgur.com/ZHv563I.png" width="60" height="60" alt="Java Icon"/>
+<img src="https://imgur.com/yEij6yC.png" width="60" height="60" alt="Java Icon"/> <img src="https://imgur.com/ZHv563I.png" width="60" height="60" alt="Docker Icon"/> <img src="https://imgur.com/ZHv563I.png" width="60" height="60" alt="Spring Icon"/>
 
 ---
 
