@@ -43,4 +43,4 @@
 
 ### :fire: Моя статистика: 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaShevnin)](https://git.io/streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaShevnin&layout=compact&theme=transparent&card_width=500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaShevnin&layout=compact&theme=transparent&card_width=400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
