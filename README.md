@@ -45,5 +45,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikitaShevnin)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaSHevnin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2 style="text-align: center;">Мое резюме</h2>
+
+<p align="center">Вы можете скачать моё резюме по следующей ссылке:</p>
+
 ### :page_facing_up: Резюме
-[Скачать резюме](onePageResume%28ShevninNikita%29.pdf)
+
+[Скачать резюме в формате PDF](onePageResume%28ShevninNikita%29.pdf)
