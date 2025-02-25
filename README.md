@@ -47,4 +47,5 @@
 
 ### :page_facing_up: Резюме
 [Скачать резюме в формате PDF](onePageResume%28ShevninNikita%29.pdf)
+
 ![Резюме](onePageResume(ShevninNikita)_page-0001%20(1).jpg)
